@@ -1,2 +1,2 @@
-# e-commerce
+# E-commerce
  E commerce site using React , Node Js , MUI , Strapi and Strife
